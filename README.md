@@ -1,1 +1,1 @@
-# Node JS 기본세팅
+# Node JS 핵심 개념
